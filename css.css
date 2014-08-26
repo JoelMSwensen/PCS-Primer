@@ -1,0 +1,21 @@
+.CatPar {
+	font-size: 24;
+	font-family: Courier;
+}
+
+a:hover{
+	color: pink;
+	}
+
+.ming {
+	font-size: 10;
+}
+
+.CatPower {
+	font-family: Verdana;
+	color: blue;
+}
+
+body {
+	background-color: #66FF99;
+}
